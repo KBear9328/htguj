@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MangaReader" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#E63946</item>
+        <item name="colorPrimaryVariant">#C1121F</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FFD166</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:colorBackground">#0D0D0D</item>
+        <item name="colorSurface">#1A1A1A</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="android:windowBackground">#0D0D0D</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+    </style>
+</resources>
